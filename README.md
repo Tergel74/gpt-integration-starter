@@ -223,6 +223,13 @@ Want to build production-ready AI applications? Check out our **comprehensive pa
 
 This project is open source and available under the [MIT License](LICENSE).
 
+**What this means:**
+
+-   ✅ Free to use for personal and commercial projects
+-   ✅ Modify and distribute as you wish
+-   ✅ No warranty or liability
+-   ✅ Just keep the license notice in copies
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
