@@ -30,8 +30,8 @@ A beginner-friendly tutorial project that teaches you how to build a modern AI-p
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd ai_saas_starter
+git clone https://github.com/Tergel74/gpt-integration-starter.git
+cd gpt-integration-starter
 ```
 
 ### 2. Install Dependencies
